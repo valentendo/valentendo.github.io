@@ -1815,10 +1815,57 @@ body {
 .cid-rohx5yzJIM .mbr-section-btn {
   color: #cccccc;
 }
+.cid-roo2vbWPni {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  position: relative;
+  background-color: #232323;
+}
+.cid-roo2vbWPni .card {
+  border-radius: 0px;
+  margin-bottom: -1px;
+}
+.cid-roo2vbWPni .card .card-header {
+  border-radius: 0px;
+  border: 0px;
+  padding: 0;
+}
+.cid-roo2vbWPni .card .card-header a.panel-title {
+  margin-bottom: 0;
+  font-style: normal;
+  font-weight: 500;
+  display: block;
+  text-decoration: none !important;
+  margin-top: -1px;
+  line-height: normal;
+}
+.cid-roo2vbWPni .card .card-header a.panel-title:focus {
+  text-decoration: none !important;
+}
+.cid-roo2vbWPni .card .card-header a.panel-title h4 {
+  padding: 1.3rem 2rem;
+  border: 1px solid #dfdfdf;
+  margin-bottom: 0;
+}
+.cid-roo2vbWPni .card .card-header a.panel-title h4 .sign {
+  padding-right: 1rem;
+}
+.cid-roo2vbWPni .card .panel-body {
+  color: #767676;
+}
+.cid-roo2vbWPni H2 {
+  color: #ffffff;
+}
+.cid-roo2vbWPni H4 {
+  color: #ffffff;
+}
+.cid-roo2vbWPni .panel-text {
+  color: #efefef;
+}
 .cid-rohxqQC1AX {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #232323;
+  background-color: #606060;
 }
 .cid-rohxqQC1AX .mbr-section-subtitle {
   color: #efefef;
